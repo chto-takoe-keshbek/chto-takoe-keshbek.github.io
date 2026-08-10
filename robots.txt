@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chto-takoe-keshbek.github.io
+Sitemap: https://chto-takoe-keshbek.github.io/sitemap.xml
